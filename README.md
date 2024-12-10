@@ -12,4 +12,3 @@ The system is styled with Tailwind CSS for a sleek interface and optimized for p
 - Server-side rendering (SSR) for fast and SEO-friendly web performance.
 - Modular and containerized deployment using Docker.
 - Modern, responsive UI crafted with Tailwind CSS and React.
-
